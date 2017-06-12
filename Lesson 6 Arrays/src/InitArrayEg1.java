@@ -17,6 +17,4 @@ public class InitArrayEg1 {
 		         System.out.printf( "%5d%8d\n", counter, array[ counter ] );
 		   } // end main
 		} // end class InitArray
-
-
 }
