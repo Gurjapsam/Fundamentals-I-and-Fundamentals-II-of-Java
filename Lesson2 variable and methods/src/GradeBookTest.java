@@ -2,6 +2,8 @@
 // 
 import java.util.Scanner; // program uses Scanner
 
+//As we write more complex methods there is less code used in the main class 
+//which is better for readability and to manage bugs 
 public class GradeBookTest
 {
    // main method begins program execution
